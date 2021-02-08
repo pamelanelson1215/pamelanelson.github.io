@@ -10125,7 +10125,7 @@ h3 {
   width: 15rem;
 }
 
-@media (min-width: 992px) {
+@media (min-width: 3000px) {
   .masthead {
     padding-top: calc(6rem + 104px);
     padding-bottom: 6rem;
